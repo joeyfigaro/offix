@@ -23,13 +23,13 @@
     "access": "public"
   },
   "devDependencies": {
-    "@size-limit/preset-small-lib": "4.9.2",
+    "@size-limit/preset-small-lib": "4.10.1",
     "apollo-link": "1.2.14",
     "graphql": "^14.6.0 || ^15.0.0",
     "graphql-tag": "2.11.0",
     "jest": "26.6.3",
-    "size-limit": "4.9.2",
-    "ts-jest": "26.5.1",
-    "typescript": "4.1.5"
+    "size-limit": "4.10.1",
+    "ts-jest": "26.5.3",
+    "typescript": "4.2.3"
   }
 }

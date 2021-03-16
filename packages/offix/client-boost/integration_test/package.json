@@ -12,23 +12,23 @@
   "dependencies": {
     "@aerogear/voyager-server": "0.9.0",
     "apollo-server": "2.21.0",
-    "chai": "4.3.0",
+    "chai": "4.3.4",
     "cors": "2.8.5",
     "express": "4.17.1",
     "graphql": "15.5.0",
-    "graphql-subscriptions": "1.2.0",
+    "graphql-subscriptions": "1.2.1",
     "graphql-tag": "2.11.0",
-    "karma": "6.1.1",
+    "karma": "6.2.0",
     "karma-chai": "0.1.0",
     "karma-chrome-launcher": "3.1.0",
     "karma-mocha": "2.0.1",
     "karma-mocha-reporter": "2.2.5",
     "karma-webpack": "4.0.2",
-    "mocha": "8.3.0",
+    "mocha": "8.3.2",
     "offix-cache": "0.15.6",
     "offix-server-conflicts": "0.6.0",
     "subscriptions-transport-ws": "0.9.18",
-    "webpack": "5.22.0"
+    "webpack": "5.26.2"
   },
   "devDependencies": {}
 }
